@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @chinazoKizito
+- A B.Sc holder in Education/Chemistry
 - 👀 I’m interested in Data science and software development
 - 🌱 I’m currently learning Data science and machine learning
 - 💞️ I’m looking to collaborate on Data science projects
