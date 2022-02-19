@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chinazoKizito
-- A B.Sc holder in Education/Chemistry and a certified Data Scientist
+- A B.Sc holder in Education/Chemistry and a Certified Data Scientist
 - 👀 I’m interested in and Data science and software development
 - 🌱 I’m currently improving my skills on Data science and machine learning
 - 💞️ I’m looking to collaborate on Data science projects
