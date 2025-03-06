@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chinazoKizito
 - A B.Sc holder in Education/Chemistry and a Data Professional
 - 👀 I’m interested in Data science and software development
-- 🌱 I’m currently improving my Data science and machine learning skills
-- 💞️ I’m looking to collaborate on Data science projects
+- 🌱 I am currently working as a Technical support engineer D365 BCNAV Application
 - 📫 How to reach me on my email: kizitochinazo@gmail.com
 <!---
 chinazoKizito/chinazoKizito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
